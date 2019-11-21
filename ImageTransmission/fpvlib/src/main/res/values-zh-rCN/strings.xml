@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VD FPV</string>
+    <string name="usb_granted_failed">USB授权失败</string>
+</resources>

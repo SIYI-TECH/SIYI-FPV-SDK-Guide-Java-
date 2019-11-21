@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fpv lib</string>
+    <string name="usb_granted_failed">USB granted failed!</string>
+</resources>
